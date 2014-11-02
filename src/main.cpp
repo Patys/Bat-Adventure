@@ -143,6 +143,7 @@ int main()
 	  if(sf::Keyboard::isKeyPressed(sf::Keyboard::E))
 	    {
 	      state = 1;
+	      score_clock.restart();
 	    }
 
 	  window.clear();
