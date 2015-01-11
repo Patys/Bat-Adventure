@@ -1,4 +1,4 @@
-#include "../include/player.h"
+#include "../include/Player.h"
 
 void Player::update()
 {

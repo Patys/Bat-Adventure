@@ -69,7 +69,7 @@ namespace ParticleSystem_b
         float m_start_live_time;
         float m_end_live_time;
     };
-};
+}
 
 
 #endif // PARTICLESYSTEM_B_H_INCLUDED
